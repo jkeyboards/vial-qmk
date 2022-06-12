@@ -38,11 +38,7 @@
 #define DIODE_DIRECTION COL2ROW
 
 /* Rotary Encoder Assignment */
-#define ENCODERS_PAD_A \
-    { C6 }
-#define ENCODERS_PAD_B \
-    { B6 }
-#define ENCODER_RESOLUTION 2
+
 
 /* Midi Slider */
 #define SLIDER_PIN F6
